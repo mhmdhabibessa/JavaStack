@@ -1,0 +1,15 @@
+.time_date {
+	display:flex;
+	justify-content: space-between;
+}
+a{
+	font-size:30px;
+	margin:200px;
+	margin-top:150px;	
+}
+h1 {
+	color : blue ; 
+}
+h3 {
+	color : green;
+}
